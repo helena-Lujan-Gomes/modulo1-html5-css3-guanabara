@@ -182,7 +182,7 @@ Agradeço ao Estudonauta, especialmente ao professor Gustavo Guanabara por dispo
 <br />
 
 - Frontend Mentor - [@HelenaGomes](https://www.frontendmentor.io/profile/helena-Lujan-Gomes)
-- GitHub - [Helena Gomes](https://github.com/helena-Lujan-Gomese)
+- GitHub - [Helena Gomes](https://github.com/helena-Lujan-Gomes)
 - LinkedIn - [Helena Gomes](https://www.linkedin.com/in/helena-lujan-gomes/)
 
 **HTML5 - CSS3** 🚀
